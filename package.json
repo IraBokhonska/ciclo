@@ -19,7 +19,6 @@
 		"tmp": "gulp -f gulpfile.tmp.js",
 		"bem": "fls-bemtree-from-html"
 	},
-	"homepage": "https://github.com/IraBokhonska/ciclo.git",
 	"devDependencies": {
 		"@babel/cli": "latest",
 		"@babel/core": "latest",
