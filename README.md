@@ -1,5 +1,4 @@
 # ciclo  
-dist-ciclo:
 gulp, webpack збірка, HTML, SCSS, JS.  
 Встановлення:  
 1. npm i - встановлення всіх пакетів;
